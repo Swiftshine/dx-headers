@@ -19,12 +19,16 @@ public:
     // Address: 0x60818350
     void prepare() override;
 
+    // Address: deleted
     void beforePrepare_();
 
+    // Address: deleted
     void afterPrepare_();
 
+    // Address: deleted
     void prepareImpl_();
 
+    // Address: deleted
     void prepareDestory();
 };
 SIZE_ASSERT(AppCalculateTask, 0xC0);
